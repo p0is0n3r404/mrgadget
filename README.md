@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="docs/images/logo.png" alt="MR.GADGET Logo" width="250">
-
-# ⚡ MR.GADGET
-
-### Ultimate OSINT Framework - Enterprise Intelligence Edition
+  <img src="docs/images/banner.png" alt="MR.GADGET Banner" width="100%">
 
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![Version](https://img.shields.io/badge/Version-2.0-blue)
